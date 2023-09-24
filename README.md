@@ -1,4 +1,4 @@
-👋 Hello there! I'm [Sameer Raj], a passionate and driven data science enthusiast with an insatiable curiosity for all things mathematical and coding-related.
+👋 Hello there! I'm Sameer Raj, a passionate and driven data science enthusiast with an insatiable curiosity for all things mathematical and coding-related.
 
 
 🌟 Skills:
@@ -19,9 +19,7 @@ Research Projects: I am not just content with the status quo. I love pushing the
 
 🌐 Future Vision:My future vision is to become a data scientist who not only excels in leveraging data for insights but also contributes to the field through cutting-edge research. I aspire to be at the forefront of innovation, using data to solve real-world problems and drive positive change.
 
-🔗 Connect with Me:I'm always excited to connect with like-minded individuals, collaborate on exciting projects, or simply engage in discussions about the fascinating world of data science. Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/
-sameer-raj-134900252
-) to start a conversation or explore potential opportunities.
+🔗 Connect with Me:I'm always excited to connect with like-minded individuals, collaborate on exciting projects, or simply engage in discussions about the fascinating world of data science. Feel free to reach out to me on LinkedIn- www.linkedin.com/in/sameer-raj-134900252 to start a conversation or explore potential opportunities.
 
 Let's embark on this data-driven journey together, as we uncover the endless possibilities that data science offers! 🌐📊🚀
 
